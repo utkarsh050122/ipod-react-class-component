@@ -1,0 +1,16 @@
+.music{
+    width: 270px;
+    height: 190px;
+    background-color: #e3f2fd;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+/* heading for music */
+h3{
+    margin: 1px;
+}
+
+.music #song1{
+    padding: 0;
+}

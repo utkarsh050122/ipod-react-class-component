@@ -1,0 +1,43 @@
+.battery {
+  width: 22px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+.bar {
+  margin-top: -1px;
+  display: flex;
+  width: 270px;
+  height: 20px;
+  min-height: 20px;
+  background-color: #e3f2fd;
+  border-bottom: 1px solid lightgray;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.heading {
+  margin: 1px 5px;
+  padding: 0;
+}
+
+.time {
+  margin: auto;
+  padding: 0;
+  font-size: 16px;
+}
+
+.right-container-nav {
+  display: flex;
+  flex-direction: row;
+  margin-left: 15px;
+}
+
+/* notification */
+.notification{
+  color: #039BE5;
+  margin: 1px;
+  margin:auto;
+  padding: 0px;
+  text-align: center;
+}
